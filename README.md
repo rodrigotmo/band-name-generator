@@ -1,1 +1,1 @@
-# band-name-generator
+# The goal of this project is to learn about string manipulation, using variables, collecting the user input and outputing the results through a simple project that generates a band name based on the city that the user grew up and his pet name. #band-name-generator
